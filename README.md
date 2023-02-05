@@ -1,0 +1,1 @@
+# dizinin_elemanlarinin_karesini_alma
